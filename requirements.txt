@@ -1,0 +1,8 @@
+customtkinter==5.2.2
+darkdetect==0.8.0
+numpy==2.4.4
+packaging==26.0
+pandas==3.0.1
+pillow==12.1.1
+python-dateutil==2.9.0.post0
+six==1.17.0
